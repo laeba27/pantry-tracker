@@ -1,0 +1,6 @@
+@PantryTracker_HostAddress = http://localhost:5146
+
+GET {{PantryTracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
